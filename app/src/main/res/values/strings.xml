@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">InAppRatingTest</string>
+    <string name="rate_us">Rate us</string>
+</resources>
